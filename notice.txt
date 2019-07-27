@@ -1,0 +1,18 @@
+--公告--
+{NOTICE:
+[TITLE:在线公告:END]            --公告标题
+[MESSAGE:
+1.新版本功能更多，但同样弊端也出现了
+2.最近一直比较浮躁，更新后有很多bug
+3.部分界面图标排版也不那么美观
+4.下个版本会针对这些问题进行修复
+5.另外在线电影部分影音无法观看是因为
+浏览器标识采用的塞特ua，这个没办法解决，如果关掉塞特ua就会出现广告。
+:END]                     --内容
+[BUTTON:我知道了:END]             --积极按钮
+[OPENURL:https://i.loli.net/2018/04/14/5ad1b9c2c9af3.png:END]          --打开链接
+[BUTTON1::END]                         --以下为备用选项
+[OPENURL1::END]
+[BUTTON2::END]
+[OPENURL2::END]
+:END}
