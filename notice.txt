@@ -1,18 +1,13 @@
---¹«¸æ--
-{NOTICE:
-[TITLE:ÔÚÏß¹«¸æ:END]            --¹«¸æ±êÌâ
-[MESSAGE:
-1.ÐÂ°æ±¾¹¦ÄÜ¸ü¶à£¬µ«Í¬Ñù±×¶ËÒ²³öÏÖÁË
-2.×î½üÒ»Ö±±È½Ï¸¡Ôê£¬¸üÐÂºóÓÐºÜ¶àbug
-3.²¿·Ö½çÃæÍ¼±êÅÅ°æÒ²²»ÄÇÃ´ÃÀ¹Û
-4.ÏÂ¸ö°æ±¾»áÕë¶ÔÕâÐ©ÎÊÌâ½øÐÐÐÞ¸´
-5.ÁíÍâÔÚÏßµçÓ°²¿·ÖÓ°ÒôÎÞ·¨¹Û¿´ÊÇÒòÎª
-ä¯ÀÀÆ÷±êÊ¶²ÉÓÃµÄÈûÌØua£¬Õâ¸öÃ»°ì·¨½â¾ö£¬Èç¹û¹ØµôÈûÌØua¾Í»á³öÏÖ¹ã¸æ¡£
-:END]                     --ÄÚÈÝ
-[BUTTON:ÎÒÖªµÀÁË:END]             --»ý¼«°´Å¥
-[OPENURL:https://i.loli.net/2018/04/14/5ad1b9c2c9af3.png:END]          --´ò¿ªÁ´½Ó
-[BUTTON1::END]                         --ÒÔÏÂÎª±¸ÓÃÑ¡Ïî
-[OPENURL1::END]
-[BUTTON2::END]
-[OPENURL2::END]
-:END}
+ã€å…¬å‘Šå†…å®¹ã€‘
+
+âœ”ä¸¾æŠ¥çœŸå®žæœ‰æ•ˆã€‚
+
+âœ”ä¿è¯ç™¾åˆ†ç™¾å°å·ã€‚
+
+â˜žå¯¹æŽ¥å®˜æ–¹å°å·ç³»ç»Ÿã€‚
+
+ï¸ï¸â˜žå¯ä»¥ä¸¾æŠ¥å„ç§è¿æ³•è¡Œä¸ºé»„èµŒæ¯’ç­‰è¿æ³•ç½‘ç«™ã€‚
+
+ã€å…¬å‘Šå†…å®¹ã€‘
+
+ã€å…¬å‘Šå›¾ç‰‡ã€‘(.-)ã€å…¬å‘Šå›¾ç‰‡ã€‘
